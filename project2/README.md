@@ -1,2 +1,2 @@
-My Porfolio
+My Porfolio:
 This project features a personal portfolio website built with HTML and CSS. It includes a header with your name or logo and a brief introduction, an about section with your image and bio, a skills section highlighting your expertise, and a projects section showcasing your work with titles and descriptions. Additionally, it provides a link to download your resume and a contact section with your email and phone number. The footer includes a copyright notice and extra links. This project is great for beginners looking to create a professional online presence.
