@@ -1,0 +1,156 @@
+body{
+    margin: 0;
+    padding: 0;
+ background-color: white;
+}
+
+#container{
+    background-color: black;
+   font-style:italic;
+    display: flex;
+    justify-content: space-evenly;
+    color:  rgb(223, 120, 137);
+   
+    font-size: 25px;
+  height: 10vh;
+  position: fixed;
+  width: 100%;
+ 
+    
+}
+.companix{
+    margin-top: 30px;
+}
+#home{
+    margin-top: 30px;
+}
+.div1{
+    padding-left: 300px;
+}
+
+#div{
+    padding-left: 300px;
+}
+#logo{
+    color: rgb(223, 120, 137);
+}
+#button{
+    height: 50px;
+    width: 100px;
+    color: rgb(223, 120, 137);
+}
+#heading1{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 200px;
+  
+}
+#para{
+    color: black;
+    text-align: center;
+    font-style: oblique;
+    font-size:30px ;
+    margin-left: 100px;
+   
+}
+.button1{
+    color:rgb(160, 70, 160);
+    display: inline;
+    margin-left: 600px;
+    border: round;
+  height: 50px;
+width: 100px; 
+}
+#heading2{
+    margin-left: 100px;
+    color:black;
+   
+    font-size: 30px
+
+}
+#para1{
+    margin-left: 100px;
+    color: black;
+    font-size: 25px
+}
+
+
+#div2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    height: 900px;
+   
+}
+img{
+    height: 500px;
+    width: 700px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.image_container img{
+    transition: transform 0.3s ease;
+}
+.image_container img:hover{
+    transform: scale(1.1);
+}
+#container1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 500px;
+}
+#div3{
+    color: rgb(223, 120, 137);
+   font-size: 30px;
+ 
+    text-align: center;
+}
+#div4{
+    color: rgb(223, 120, 137);
+    font-size: 30px;
+  
+    text-align: center;
+}
+#div5{
+    color: rgb(223, 120, 137);
+    font-size: 30px;
+   
+    text-align: center;
+}
+#footer{
+    background-color: black
+}
+#container2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    color:    rgb(223, 120, 137);
+}
+#heading3{
+   
+    color:    rgb(223, 120, 137);
+text-align: center;    
+}
+#para2{
+    color:    rgb(223, 120, 137);
+text-align: center;    
+
+}
+#div6{
+    margin-left: 700px;
+}
+#div7{
+    margin-right: 700px;
+}
+.para3{
+    text-align: center;
+    font-size:25px ;
+    color: black;
+}
+
