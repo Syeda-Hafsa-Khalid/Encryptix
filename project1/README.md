@@ -1,3 +1,4 @@
 Simple Landing Page:
-The landing page features a fixed header with navigation links, a main content section showcasing the power of artificial intelligence, and a footer with privacy policy and terms of service links.
-The design includes a visually appealing color scheme, centered text, and flexible box layouts to ensure proper alignment.
+
+The landing page includes a fixed header with navigation links, a main section highlighting the capabilities of artificial intelligence, and a footer containing links to the privacy policy and terms of service. 
+The design features an attractive color palette, centered text, and flexible box layouts for optimal alignment.
