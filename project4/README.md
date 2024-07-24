@@ -1,1 +1,2 @@
 Tribute page
+The tribute page to Abdul Sattar Edhi begins with a brief overview of his humanitarian work. It highlights his qualities of kindness, selflessness, and dedication through short, styled paragraphs. A gallery of images shows Edhi in action, with captions. His key contributions, such as the Edhi Foundation and ambulance services, are listed in bullet points. Inspiring quotes are prominently featured. The design uses varied fonts, complementary background colors, and a clean layout. 
